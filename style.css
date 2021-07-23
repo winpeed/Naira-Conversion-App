@@ -66,9 +66,9 @@ marquee p {
   justify-content: center;
   text-align: center;
   margin-top: -30px;
-  background: #673ab7;
+  background-color: #fcff51;
   border-radius: 10px;
-  padding: 0em 4em 4em 4em;;
+  padding: 0em 4em 4em 4em;
 }
 
 .exchange p {
