@@ -50,7 +50,7 @@ marquee p {
   align-items: center;
   background: url("./img/bg-img.png");
   object-fit: contain;
-  background-color: #f9f2fb;
+  background-color: #fcff51;
   background-blend-mode: multiply;
   min-height: 500px;
 }
